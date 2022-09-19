@@ -1,0 +1,22 @@
+{
+  "intro": "Hello World!",
+  "heroPhoto": {
+    "src": "../../images/me3.png",
+    "alt": "Smiling woman with glasses."
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "",
+  "subtitle": {
+    "prefix": "It's great to meet you",
+    "highlight": "",
+    "suffix": "."
+  },
+  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github"],
+    "showIcons": true
+  }
+}
