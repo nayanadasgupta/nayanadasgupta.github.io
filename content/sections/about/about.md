@@ -1,15 +1,15 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Me"
+imageSrc: "../../images/undraw_handcrafts_cat.png"
+imageAlt: "Handrawn image of a cat"
 ---
 
-Hello! My name is Nayana and I'm a Software Engineer at Twilio who loves all things code. I have a deep passion for building functional and performant products, with great user experiences and can often be found tinkering with various personal projects and experimenting with new technologies.
+Hello! My name is Nayana and I'm a Software Engineer at Twilio who loves all things code. I have a deep passion for building functional and performant products, with great user experiences and can often be found tinkering with various personal projects, contributing to open-source and experimenting with new technologies.
 
 I recently graduated with an MEng in Computer Science with First Class Honours from UCL, with my dissertation investigating how we can apply social mechanisms to multi-agent systems to enable the emergence of cooperation within groups of AI agents. 
 
-Outside of work, I love reading, playing board games and going on long walks.
+Outside of work, I love reading, playing board games and watching funny cat videos.
 
-Here are a few technologies I've worked with recently:
+Here's a few technologies I've been working with recently:
 
 - TypeScript/JavaScript
 - React
