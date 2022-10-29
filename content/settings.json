@@ -26,8 +26,8 @@
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
-        "url": "/resume.pdf"
+        "label": "Github",
+        "url": "https://github.com/nayanadasgupta"
       },
       "footer": [
       ]
