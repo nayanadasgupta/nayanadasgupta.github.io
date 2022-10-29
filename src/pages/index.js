@@ -26,9 +26,9 @@ export default function IndexPage() {
         <ProjectsSection sectionId="projects" heading="Projects" />
         {/* <ProjectsSection sectionId="experience" heading="Experience" /> */}
         {/* <ContactSection sectionId="github" heading="Contact Me" /> */}
-        <Section heading="This is a brand new section.">
+        {/* <Section heading="This is a brand new section.">
               <p>You can add your custom JSX here.</p>
-        </Section>
+        </Section> */}
       </Page>
     </>
   );
