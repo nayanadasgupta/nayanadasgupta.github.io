@@ -12,4 +12,4 @@ keywords:
     - 'Writing'
 ---
 
-This is my first blog post. I'm not yet sure about what I will write about here, but I'm excited to get started.  
+This is my first blog post. I'm not yet sure about what I will write about here nor how often I will write, but I'm excited to step into the unknown and get started.  
