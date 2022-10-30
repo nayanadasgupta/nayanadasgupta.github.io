@@ -1,15 +1,10 @@
 import React from "react";
 import {
   AboutSection,
-  ArticlesSection,
-  ContactSection,
   HeroSection,
-  InterestsSection,
   Page,
   ProjectsSection,
   Seo,
-  Section,
-  Animation,
 } from "gatsby-theme-portfolio-minimal";
 import ExperienceSection from "../custom-sections/experience";
 
