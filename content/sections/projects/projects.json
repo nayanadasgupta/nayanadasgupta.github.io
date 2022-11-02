@@ -3,7 +3,7 @@
     {
       "visible": true,
       "category": "🎮 GAME DEVELOPMENT",
-      "title": "Of Mice and Messages",
+      "title": "Of Mice and Messages 🎮",
       "description": "Worked with Microsoft Research to develop an eye tracking game, aimed at individuals with severely disabling conditions such as ALS and Spinal Cord injuries. We created the game using Unity and C# and developed a custom Unity plugin for Tobii eye trackers before releasing the game onto the Microsoft Store. You can read the article about our design and development process on the Microsoft Educator Developer blog linked below.",
       "tags": [],
       "image": {
