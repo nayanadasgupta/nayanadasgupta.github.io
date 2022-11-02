@@ -2,6 +2,27 @@
   "projects": [
     {
       "visible": true,
+      "category": "🎮 GAME DEVELOPMENT",
+      "title": "Of Mice and Messages",
+      "description": "Worked with Microsoft Research to develop an eye tracking game, aimed at individuals with severely disabling conditions such as ALS and Spinal Cord injuries. We created the game using Unity and C# and developed a custom Unity plugin for Tobii eye trackers before releasing the game onto the Microsoft Store. You can read the article about our design and development process on the Microsoft Educator Developer blog linked below.",
+      "tags": [],
+      "image": {
+        "src": "../../images/offmice2.webp",
+        "alt": "Game level involving movable pipes funneling water through an obstacle filled sewer."
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/OccularFlow"
+        }
+        {
+          "type": "external",
+          "url": "https://techcommunity.microsoft.com/t5/educator-developer-blog/using-unity-to-create-an-engaging-eye-tracking-puzzle-game-a-ucl/ba-p/1296260"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "🌐 Web Development",
       "title": "FHIR React Dashboard",
       "description": "This project was one of the winners of the GOSH FHIRworks2020 hackathon. It's a realtime web dashboard that pulls hospital records from a FHIR server and produces analytical visualisations using React, Recharts and Material-UI. I wrote unit tests using Jest and used CircleCI for continuous integration.",
